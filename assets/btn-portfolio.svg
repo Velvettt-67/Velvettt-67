@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 215 48" width="215" height="48">
+  <defs>
+    <linearGradient id="btnGlass" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="btnRim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.4"/>
+      <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#9B5CFF" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="215" height="48" rx="12" fill="#0C0A16"/>
+  <rect width="215" height="48" rx="12" fill="url(#btnGlass)"/>
+  <rect x="0.8" y="0.8" width="213.4" height="46.4" rx="11.2" fill="none" stroke="url(#btnRim)" stroke-width="1"/>
+  <line x1="12" y1="1" x2="203" y2="1" stroke="rgba(255,255,255,0.35)" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Official Vercel Logo -->
+  <polygon points="24,14 34,31 14,31" fill="#FFFFFF"/>
+  <text x="44" y="22" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="12.5" font-weight="700">Live Portfolio</text>
+  <text x="44" y="36" fill="#C8A7FF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="10" font-weight="500">velvet-portfolio.vercel.app</text>
+</svg>

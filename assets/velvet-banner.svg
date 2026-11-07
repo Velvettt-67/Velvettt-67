@@ -1,152 +1,146 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 330" width="100%" height="100%">
   <defs>
-    <!-- Obsidian Space Canvas Background -->
+    <!-- Deep Obsidian Space Canvas -->
     <linearGradient id="appleObsidian" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#060609"/>
-      <stop offset="50%" stop-color="#0A0912"/>
-      <stop offset="100%" stop-color="#0D0B18"/>
+      <stop offset="45%" stop-color="#0A0912"/>
+      <stop offset="100%" stop-color="#0E0C1A"/>
     </linearGradient>
 
-    <!-- Translucent Liquid Glass Surface -->
+    <!-- Translucent Frosted Glass Card Surface -->
     <linearGradient id="appleLiquidGlass" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.07"/>
-      <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.025"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.01"/>
     </linearGradient>
 
     <!-- Apple 1px Specular Top Rim Reflection -->
     <linearGradient id="specularRim" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.45"/>
-      <stop offset="25%" stop-color="#FFFFFF" stop-opacity="0.15"/>
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.5"/>
+      <stop offset="25%" stop-color="#FFFFFF" stop-opacity="0.18"/>
       <stop offset="65%" stop-color="#9B5CFF" stop-opacity="0.25"/>
       <stop offset="100%" stop-color="#48A7FF" stop-opacity="0.35"/>
     </linearGradient>
 
     <!-- Velvet & Electric Light Orbs behind the Glass -->
-    <radialGradient id="velvetOrb" cx="85%" cy="25%" r="55%">
-      <stop offset="0%" stop-color="#9B5CFF" stop-opacity="0.32"/>
-      <stop offset="45%" stop-color="#9B5CFF" stop-opacity="0.1"/>
+    <radialGradient id="velvetOrb" cx="88%" cy="22%" r="55%">
+      <stop offset="0%" stop-color="#9B5CFF" stop-opacity="0.35"/>
+      <stop offset="45%" stop-color="#9B5CFF" stop-opacity="0.12"/>
       <stop offset="100%" stop-color="#9B5CFF" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="cyanOrb" cx="15%" cy="80%" r="50%">
-      <stop offset="0%" stop-color="#48A7FF" stop-opacity="0.22"/>
-      <stop offset="50%" stop-color="#48A7FF" stop-opacity="0.05"/>
+    <radialGradient id="cyanOrb" cx="12%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#48A7FF" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#48A7FF" stop-opacity="0.06"/>
       <stop offset="100%" stop-color="#48A7FF" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Title Luxury Gradient -->
+    <!-- Headline Luxury Gradient -->
     <linearGradient id="luxuryTitle" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="40%" stop-color="#F2EEFF"/>
-      <stop offset="75%" stop-color="#D4BFFF"/>
-      <stop offset="100%" stop-color="#6DB7FF"/>
+      <stop offset="38%" stop-color="#F4EFFF"/>
+      <stop offset="72%" stop-color="#D8C4FF"/>
+      <stop offset="100%" stop-color="#6EB8FF"/>
     </linearGradient>
 
     <!-- Glass Chip Gradient -->
     <linearGradient id="glassChipBg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.09"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
     </linearGradient>
 
     <linearGradient id="glassChipBorder" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#9B5CFF" stop-opacity="0.15"/>
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#9B5CFF" stop-opacity="0.18"/>
     </linearGradient>
 
-    <!-- Micro Grid Pattern -->
-    <pattern id="microGrid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#231E38" stroke-width="0.6" stroke-opacity="0.35"/>
+    <!-- Dot Pattern -->
+    <pattern id="microDots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.75" fill="#32294A" opacity="0.4"/>
     </pattern>
 
     <!-- Apple Drop Shadow Filter -->
     <filter id="appleShadow" x="-2%" y="-5%" width="104%" height="115%">
-      <feDropShadow dx="0" dy="12" stdDeviation="24" flood-color="#000000" flood-opacity="0.75"/>
+      <feDropShadow dx="0" dy="14" stdDeviation="24" flood-color="#000000" flood-opacity="0.8"/>
     </filter>
   </defs>
 
   <!-- Deep Obsidian Space Base -->
-  <rect width="920" height="300" rx="22" fill="url(#appleObsidian)"/>
+  <rect width="940" height="330" rx="22" fill="url(#appleObsidian)"/>
   
   <!-- Subtle Micro Grid Texture -->
-  <rect width="920" height="300" rx="22" fill="url(#microGrid)"/>
+  <rect width="940" height="330" rx="22" fill="url(#microDots)"/>
 
   <!-- Glowing Velvet & Cyan Orbs Behind Glass -->
-  <rect width="920" height="300" rx="22" fill="url(#velvetOrb)"/>
-  <rect width="920" height="300" rx="22" fill="url(#cyanOrb)"/>
+  <rect width="940" height="330" rx="22" fill="url(#velvetOrb)"/>
+  <rect width="940" height="330" rx="22" fill="url(#cyanOrb)"/>
 
   <!-- Liquid Frosted Glass Overlay Card -->
-  <rect x="12" y="12" width="896" height="276" rx="18" fill="url(#appleLiquidGlass)" filter="url(#appleShadow)"/>
+  <rect x="12" y="12" width="916" height="306" rx="18" fill="url(#appleLiquidGlass)" filter="url(#appleShadow)"/>
 
   <!-- 1px Specular Apple Glass Rim Lighting -->
-  <rect x="12" y="12" width="896" height="276" rx="18" fill="none" stroke="url(#specularRim)" stroke-width="1.2"/>
+  <rect x="12" y="12" width="916" height="306" rx="18" fill="none" stroke="url(#specularRim)" stroke-width="1.2"/>
 
   <!-- Top Glass Highlight Refraction Line -->
-  <line x1="40" y1="13" x2="880" y2="13" stroke="rgba(255,255,255,0.4)" stroke-width="1" stroke-linecap="round"/>
+  <line x1="44" y1="13" x2="896" y2="13" stroke="rgba(255,255,255,0.45)" stroke-width="1" stroke-linecap="round"/>
 
   <!-- ================= TOP HEADER ELEMENTS ================= -->
   <!-- Identity Pill (Apple Frosted Glass) -->
-  <g transform="translate(44, 38)">
-    <rect x="0" y="0" width="260" height="26" rx="13" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
-    <!-- Specular rim highlight on pill -->
-    <line x1="12" y1="1" x2="248" y2="1" stroke="rgba(255,255,255,0.3)" stroke-width="0.8"/>
-    <text x="14" y="17.5" fill="#E2D4FF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="11" font-weight="700" letter-spacing="0.14em">ROHIT KANWAL · VELVET</text>
+  <g transform="translate(44, 40)">
+    <rect x="0" y="0" width="270" height="28" rx="14" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
+    <line x1="14" y1="1" x2="256" y2="1" stroke="rgba(255,255,255,0.35)" stroke-width="0.8"/>
+    <text x="16" y="19" fill="#E2D4FF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.14em">ROHIT KANWAL · VELVET</text>
   </g>
 
   <!-- Live Status Glass Pill (Right) -->
-  <g transform="translate(670, 38)">
-    <rect x="0" y="0" width="205" height="26" rx="13" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
+  <g transform="translate(686, 40)">
+    <rect x="0" y="0" width="210" height="28" rx="14" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
+    <line x1="14" y1="1" x2="196" y2="1" stroke="rgba(255,255,255,0.35)" stroke-width="0.8"/>
     <!-- Breathing LED Indicator -->
-    <circle cx="16" cy="13" r="4" fill="#48A7FF">
+    <circle cx="16" cy="14" r="4" fill="#48A7FF">
       <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="16" cy="13" r="7" fill="none" stroke="#48A7FF" stroke-width="0.8" opacity="0.4">
-      <animate attributeName="r" values="5;8.5;5" dur="2.4s" repeatCount="indefinite"/>
+    <circle cx="16" cy="14" r="7.5" fill="none" stroke="#48A7FF" stroke-width="0.8" opacity="0.4">
+      <animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <text x="30" y="17.5" fill="#EDE8FF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.08em">OPEN FOR ENGINEERING</text>
+    <text x="32" y="18.5" fill="#EDE8FF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.08em">OPEN FOR ENGINEERING</text>
   </g>
 
   <!-- ================= MAIN TYPOGRAPHY ================= -->
   <!-- Luxury Headline "VELVET" -->
-  <text x="44" y="142" fill="url(#luxuryTitle)" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Space Grotesk', Inter, sans-serif" font-size="68" font-weight="900" letter-spacing="0.06em">VELVET</text>
+  <text x="44" y="150" fill="url(#luxuryTitle)" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Space Grotesk', Inter, sans-serif" font-size="70" font-weight="900" letter-spacing="0.08em">VELVET</text>
 
   <!-- Role Subtitle -->
-  <g transform="translate(46, 172)">
-    <text x="0" y="0" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="16.5" font-weight="600" letter-spacing="0.02em">Creative Developer <tspan fill="#9B5CFF">·</tspan> Software Builder <tspan fill="#48A7FF">·</tspan> Systems Explorer</text>
-  </g>
+  <text x="46" y="186" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="17" font-weight="600" letter-spacing="0.02em">Creative Developer <tspan fill="#9B5CFF">·</tspan> Systems Builder <tspan fill="#48A7FF">·</tspan> Community Architect</text>
 
-  <!-- Human Authentic Tagline -->
-  <text x="46" y="200" fill="#9E9BB2" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="13.5" font-weight="400" letter-spacing="0.01em">Building tactile 3D WebGL interfaces, low-latency Windows engines in Rust &amp; real-time community platforms.</text>
+  <!-- Authentic Human Tagline -->
+  <text x="46" y="214" fill="#A4A0B8" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="14" font-weight="400" letter-spacing="0.01em">Building tactile 3D WebGL interfaces, low-latency Windows utilities in Rust &amp; real-time communities.</text>
 
-  <!-- ================= BOTTOM APPLE GLASS PILLS ================= -->
-  <g transform="translate(44, 234)">
+  <!-- ================= BOTTOM SPECIALIZATION PILLS ================= -->
+  <g transform="translate(44, 252)">
     <!-- Pill 1: 3D WebGL -->
     <g transform="translate(0, 0)">
-      <rect width="190" height="30" rx="9" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
-      <circle cx="14" cy="15" r="3" fill="#9B5CFF"/>
-      <text x="26" y="19.5" fill="#F5F5FA" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="11.5" font-weight="500">Three.js &amp; 3D Shaders</text>
+      <rect width="265" height="34" rx="11" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
+      <line x1="12" y1="1" x2="253" y2="1" stroke="rgba(255,255,255,0.25)" stroke-width="0.8"/>
+      <circle cx="16" cy="17" r="3.5" fill="#9B5CFF"/>
+      <text x="30" y="21.5" fill="#F5F5FA" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="12" font-weight="600">Three.js &amp; GPU Particle Shaders</text>
     </g>
 
     <!-- Pill 2: Rust & Tauri -->
-    <g transform="translate(202, 0)">
-      <rect width="195" height="30" rx="9" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
-      <circle cx="14" cy="15" r="3" fill="#48A7FF"/>
-      <text x="26" y="19.5" fill="#F5F5FA" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="11.5" font-weight="500">Rust &amp; Tauri Desktop Suites</text>
+    <g transform="translate(280, 0)">
+      <rect width="280" height="34" rx="11" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
+      <line x1="12" y1="1" x2="268" y2="1" stroke="rgba(255,255,255,0.25)" stroke-width="0.8"/>
+      <circle cx="16" cy="17" r="3.5" fill="#48A7FF"/>
+      <text x="30" y="21.5" fill="#F5F5FA" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="12" font-weight="600">Low-Latency Windows &amp; Rust Suites</text>
     </g>
 
     <!-- Pill 3: Community Platforms -->
-    <g transform="translate(409, 0)">
-      <rect width="215" height="30" rx="9" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
-      <circle cx="14" cy="15" r="3" fill="#C8A7FF"/>
-      <text x="26" y="19.5" fill="#F5F5FA" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="11.5" font-weight="500">Real-Time Discord Bridges</text>
-    </g>
-
-    <!-- Pill 4: Hardware Latency Tuning -->
-    <g transform="translate(636, 0)">
-      <rect width="195" height="30" rx="9" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
-      <circle cx="14" cy="15" r="3" fill="#48A7FF"/>
-      <text x="26" y="19.5" fill="#F5F5FA" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="11.5" font-weight="500">Low-Latency OS Tuning</text>
+    <g transform="translate(575, 0)">
+      <rect width="277" height="34" rx="11" fill="url(#glassChipBg)" stroke="url(#glassChipBorder)" stroke-width="0.9"/>
+      <line x1="12" y1="1" x2="265" y2="1" stroke="rgba(255,255,255,0.25)" stroke-width="0.8"/>
+      <circle cx="16" cy="17" r="3.5" fill="#C8A7FF"/>
+      <text x="30" y="21.5" fill="#F5F5FA" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="12" font-weight="600">Real-Time Community Platforms</text>
     </g>
   </g>
 </svg>

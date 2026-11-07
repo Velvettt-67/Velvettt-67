@@ -2,15 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/velvet-banner.svg" alt="VELVET — Rohit Kanwal | Creative Developer & Software Builder" width="100%" />
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-velvet--portfolio.vercel.app-9B5CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://velvet-portfolio.vercel.app/)
+<a href="https://velvet-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/btn-portfolio.svg" alt="Live Portfolio" height="42" /></a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Kanwal-48A7FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kanwal-003a75431/)
+<a href="https://www.linkedin.com/in/rohit-kanwal-003a75431/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/btn-linkedin.svg" alt="LinkedIn" height="42" /></a>
 &nbsp;
-[![X / Twitter](https://img.shields.io/badge/X-@nyx__velvet67-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nyx_velvet67)
+<a href="https://x.com/nyx_velvet67"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/btn-x.svg" alt="X / Twitter" height="42" /></a>
 &nbsp;
-[![Discord](https://img.shields.io/badge/Discord-Love_Pixels-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lovepixel)
+<a href="https://discord.gg/lovepixel"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/btn-discord.svg" alt="LovePixels Discord" height="42" /></a>
 
 </div>
 
@@ -18,15 +18,15 @@
 
 ### ✦ About Me
 
-Hey, I'm **Rohit** — most people online know me as **Velvet**.
+Hey, I'm **Rohit** — known online as **Velvet**.
 
-I build software and obsess over how it actually feels to use. Most of my time is split between two sides of engineering:
+I build software and obsess over how it actually feels to interact with. Most of my time is split between two distinct sides of engineering:
 
-- **Kinetic 3D Web & Creative Interfaces**: Building WebGL viewports, GPU-instanced particle fields, procedural Web Audio soundscapes, and physics-driven cursors that make the browser feel like a high-end application.
-- **Low-Latency Systems & Desktop Utilities**: Digging into Windows internals, MMCSS multimedia thread scheduling, and building native lightweight desktop apps in **Rust** and **Tauri v2** to eliminate micro-stutters and input delay.
-- **Active Digital Communities**: I founded and developed the platform for **LovePixels**, a Discord community with over **15,400 members** where we've run 50+ verified tournaments and distributed over **₹2,00,000** in creator rewards.
+- **Kinetic 3D Web & Creative Interfaces**: Building WebGL viewports, GPU-instanced particle fields, procedural Web Audio soundscapes, and physics-driven cursors that make web applications feel like high-end desktop software.
+- **Low-Latency Systems & Desktop Utilities**: Digging into Windows internals, MMCSS multimedia thread scheduling, and engineering native desktop suites in **Rust** and **Tauri v2** to eliminate micro-stutters and input lag.
+- **Active Digital Communities**: I founded and developed the platform for **LovePixels**, an interactive Discord community with over **15,400 members** where we've hosted 50+ live gaming tournaments and distributed more than **₹2,00,000** in verified creator rewards.
 
-I care about the tiny details most people skip — 1px glass specular highlights, sub-millisecond input response, zero layout shift, and interfaces that feel genuinely tactile.
+I care deeply about the micro-details most people skip — 1px glass specular highlights, sub-millisecond input response, zero layout shift, and interfaces that feel tactile, responsive, and luxurious to touch.
 
 ---
 
@@ -120,6 +120,6 @@ I care about the tiny details most people skip — 1px glass specular highlights
 
 <div align="center">
 
-<sub>Crafted with precision by <b>Rohit Kanwal (Velvet)</b> · All systems verified from production code</sub>
+<sub>Crafted with precision by <b>Rohit Kanwal (Velvet)</b> · Verified from production codebases</sub>
 
 </div>

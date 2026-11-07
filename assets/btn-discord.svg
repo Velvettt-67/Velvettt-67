@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 215 48" width="215" height="48">
+  <defs>
+    <linearGradient id="btnGlassDisc" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="btnRimDisc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.4"/>
+      <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#5865F2" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="215" height="48" rx="12" fill="#0C0A1A"/>
+  <rect width="215" height="48" rx="12" fill="url(#btnGlassDisc)"/>
+  <rect x="0.8" y="0.8" width="213.4" height="46.4" rx="11.2" fill="none" stroke="url(#btnRimDisc)" stroke-width="1"/>
+  <line x1="12" y1="1" x2="203" y2="1" stroke="rgba(255,255,255,0.35)" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Official Discord Clyde Logo -->
+  <g transform="translate(14, 13)">
+    <rect width="22" height="22" rx="5" fill="#5865F2"/>
+    <circle cx="7.5" cy="11.5" r="2.2" fill="#FFFFFF"/>
+    <circle cx="14.5" cy="11.5" r="2.2" fill="#FFFFFF"/>
+    <path d="M7 15.5 c2.5 1 5.5 1 8 0" stroke="#5865F2" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+  <text x="44" y="22" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="12.5" font-weight="700">LovePixels Discord</text>
+  <text x="44" y="36" fill="#C8A7FF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="10" font-weight="500">15.4k+ Chill Community</text>
+</svg>
