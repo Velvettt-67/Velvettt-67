@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/velvet-banner.svg" alt="VELVET — Rohit Kanwal | Creative Developer & Software Builder" width="100%" />
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/velvet-banner.svg" alt="VELVET — Rohit Kanwal | Creative Developer & Software Builder" width="100%" />
 
 <br/>
 
