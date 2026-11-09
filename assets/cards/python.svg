@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206 62" width="206" height="62">
+  <defs>
+    <!-- Dark Glass Base -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161422" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#0F0D1A" stop-opacity="0.98"/>
+    </linearGradient>
+
+    <!-- Frosted Glass Refraction -->
+    <linearGradient id="cardGlass" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.01"/>
+    </linearGradient>
+
+    <!-- 1px Specular Apple Rim -->
+    <linearGradient id="cardRim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.42"/>
+      <stop offset="35%" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#3776AB" stop-opacity="0.32"/>
+    </linearGradient>
+
+    <!-- Subtle Icon Ambient Glow -->
+    <radialGradient id="iconGlow" cx="29" cy="31" r="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3776AB" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#3776AB" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Card Surface -->
+  <rect width="206" height="62" rx="14" fill="url(#cardBg)"/>
+  <rect width="206" height="62" rx="14" fill="url(#cardGlass)"/>
+  <circle cx="29" cy="31" r="24" fill="url(#iconGlow)"/>
+
+  <!-- 1px Specular Border -->
+  <rect x="0.8" y="0.8" width="204.4" height="60.4" rx="13.2" fill="none" stroke="url(#cardRim)" stroke-width="1"/>
+
+  <!-- Top Glass Highlight Refraction Line -->
+  <line x1="14" y1="1.4" x2="192" y2="1.4" stroke="rgba(255,255,255,0.35)" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- 30px Vector Icon -->
+  <g transform="translate(14, 16)">
+    <path d="M14.5 2 C8.5 2 9 4.6 9 4.6 L9 7.3 L15.2 7.3 L15.2 8.2 L6.5 8.2 C6.5 8.2 2 7.7 2 13.7 C2 19.7 6 19.3 6 19.3 L8.4 19.3 L8.4 16 C8.4 12.3 11.5 12.3 11.5 12.3 L17.7 12.3 C17.7 12.3 20.8 12.3 20.8 8.6 C20.8 4.9 17.7 2 14.5 2 Z" fill="#3776AB"/>
+      <circle cx="11.8" cy="4.8" r="1.1" fill="#FFFFFF"/>
+      <path d="M15.5 28 C21.5 28 21 25.4 21 25.4 L21 22.7 L14.8 22.7 L14.8 21.8 L23.5 21.8 C23.5 21.8 28 22.3 28 16.3 C28 10.3 24 10.7 24 10.7 L21.6 10.7 L21.6 14 C21.6 17.7 18.5 17.7 18.5 17.7 L12.3 17.7 C12.3 12.3 9.2 17.7 9.2 21.4 C9.2 25.1 12.3 28 15.5 28 Z" fill="#FFD43B"/>
+      <circle cx="18.2" cy="25.2" r="1.1" fill="#000000"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="54" y="32" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="14" font-weight="700">Python</text>
+  <text x="54" y="47" fill="#8E8B9E" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="11" font-weight="500">Automation &amp; Data</text>
+</svg>

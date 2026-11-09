@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/velvet-banner.svg" alt="VELVET — Rohit Kanwal | Creative Developer & Software Builder" width="100%" />
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/velvet-banner.svg" alt="VELVET — Rohit Kanwal | Creative Developer &amp; Software Builder" width="100%" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://githubstudio.sylvenos.com/api/divider?style=pulse&accent=9B5CFF&accent2=48A7FF" width="100%" alt="Pulse Divider" />
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/animated-wave.svg" width="100%" alt="Looping Sine Wave Separator" />
 
 </div>
 
@@ -26,27 +26,75 @@
 
 Hey, I'm **Rohit** — known online as **Velvet**.
 
-I build software and obsess over how it actually feels to interact with. Most of my time is split between two distinct sides of engineering:
+I build software and obsess over how it actually feels to interact with. Most of my engineering time is split between two distinct crafts:
 
-- **Kinetic 3D Web & Creative Interfaces**: Building WebGL viewports, GPU-instanced particle fields, procedural Web Audio soundscapes, and physics-driven cursors that make web applications feel like high-end desktop software.
+- **Kinetic 3D Web & Creative Interfaces**: Building WebGL viewports, GPU-instanced particle fields, procedural Web Audio soundscapes, and physics-driven cursors that make web applications feel like high-end native software.
 - **Low-Latency Systems & Desktop Utilities**: Digging into Windows internals, MMCSS multimedia thread scheduling, and engineering native desktop suites in **Rust** and **Tauri v2** to eliminate micro-stutters and input lag.
 - **Active Digital Communities**: I founded and developed the platform for **LovePixels**, an interactive Discord community with over **15,400 members** where we've hosted 50+ live gaming tournaments and distributed more than **₹2,00,000** in verified creator rewards.
 
 I care deeply about the micro-details most people skip — 1px glass specular highlights, sub-millisecond input response, zero layout shift, and interfaces that feel tactile, responsive, and luxurious to touch.
 
 <div align="center">
-  <img src="https://githubstudio.sylvenos.com/api/divider?style=wave&accent=9B5CFF&accent2=48A7FF" width="100%" alt="Wave Divider" />
+  <img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/animated-wave.svg" width="100%" alt="Looping Sine Wave Separator" />
 </div>
 
 ### ⚡ Technology Arsenal
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/velvet-tech-stack.svg" alt="Velvet Technology Stack — Apple Glass Suite" width="100%" />
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/labels/arsenal-header.svg" width="100%" alt="Verified Arsenal — Technologies &amp; Frameworks" />
 
 <br/>
 
-<img src="https://githubstudio.sylvenos.com/api/divider?style=gradient&accent=9B5CFF&accent2=48A7FF" width="100%" alt="Gradient Divider" />
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/labels/cat-01-languages.svg" width="100%" alt="01. Core Languages" />
+
+<br/>
+
+<a href="https://www.typescriptlang.org/docs/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/typescript.svg" width="22.5%" alt="TypeScript Documentation" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/javascript.svg" width="22.5%" alt="JavaScript Documentation" /></a>
+<a href="https://doc.rust-lang.org/book/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/rust.svg" width="22.5%" alt="Rust Documentation" /></a>
+<a href="https://docs.python.org/3/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/python.svg" width="22.5%" alt="Python Documentation" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/labels/cat-02-frontend.svg" width="100%" alt="02. Frontend &amp; 3D WebGL" />
+
+<br/>
+
+<a href="https://nextjs.org/docs"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/nextjs.svg" width="22.5%" alt="Next.js Documentation" /></a>
+<a href="https://react.dev/learn"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/react.svg" width="22.5%" alt="React Documentation" /></a>
+<a href="https://threejs.org/docs/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/threejs.svg" width="22.5%" alt="Three.js Documentation" /></a>
+<a href="https://vite.dev/guide/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/vite.svg" width="22.5%" alt="Vite Documentation" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/labels/cat-03-motion.svg" width="100%" alt="03. Motion &amp; Shaders" />
+
+<br/>
+
+<a href="https://tailwindcss.com/docs"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/tailwind.svg" width="22.5%" alt="Tailwind CSS Documentation" /></a>
+<a href="https://gsap.com/docs/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/gsap.svg" width="22.5%" alt="GSAP Documentation" /></a>
+<a href="https://motion.dev/docs/react"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/framer.svg" width="22.5%" alt="Framer Motion Documentation" /></a>
+<a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/glsl.svg" width="22.5%" alt="GLSL Shaders Documentation" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/labels/cat-04-systems.svg" width="100%" alt="04. Systems &amp; Infrastructure" />
+
+<br/>
+
+<a href="https://v2.tauri.app/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/tauri.svg" width="22.5%" alt="Tauri Documentation" /></a>
+<a href="https://learn.microsoft.com/en-us/windows/win32/api/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/windows.svg" width="22.5%" alt="Windows APIs Documentation" /></a>
+<a href="https://discord.com/developers/docs/intro"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/discord.svg" width="22.5%" alt="Discord API Documentation" /></a>
+<a href="https://vercel.com/docs"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/cards/vercel.svg" width="22.5%" alt="Vercel Edge Documentation" /></a>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/labels/arsenal-footer.svg" width="100%" alt="Divider" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/animated-wave.svg" width="100%" alt="Looping Sine Wave Separator" />
 
 </div>
 
@@ -115,16 +163,16 @@ I care deeply about the micro-details most people skip — 1px glass specular hi
 </table>
 
 <div align="center">
-  <img src="https://githubstudio.sylvenos.com/api/divider?style=wave&accent=9B5CFF&accent2=48A7FF" width="100%" alt="Wave Divider" />
+  <img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/animated-wave.svg" width="100%" alt="Looping Sine Wave Separator" />
 </div>
 
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Velvettt-67&show_icons=true&theme=transparent&title_color=9B5CFF&text_color=F5F5FA&icon_color=48A7FF&border_color=25203A&hide_border=false" alt="Velvettt-67 GitHub Stats" height="165" />
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/stats-card.svg" alt="Velvettt-67 GitHub Stats" width="48.5%" />
 &nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velvettt-67&layout=compact&theme=transparent&title_color=9B5CFF&text_color=F5F5FA&border_color=25203A&hide_border=false" alt="Velvettt-67 Top Languages" height="165" />
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/languages-card.svg" alt="Velvettt-67 Code Distribution" width="48.5%" />
 
 <br/><br/>
 
@@ -136,8 +184,10 @@ I care deeply about the micro-details most people skip — 1px glass specular hi
 
 <br/><br/>
 
-<img src="https://githubstudio.sylvenos.com/api/divider?style=pulse&accent=9B5CFF&accent2=48A7FF" width="100%" alt="Pulse Divider" />
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/animated-wave.svg" width="100%" alt="Looping Sine Wave Separator" />
 
-<sub>Crafted with precision by <b>Rohit Kanwal (Velvet)</b> · Powered by Apple Glass UI &amp; GithubStudio</sub>
+<br/>
+
+<img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/velvet-footer.svg" width="100%" alt="Crafted by Rohit Kanwal (Velvet)" />
 
 </div>
