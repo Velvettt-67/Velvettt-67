@@ -2,7 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/velvet-banner.svg" alt="VELVET — Rohit Kanwal | Creative Developer & Software Builder" width="100%" />
 
-<br/><br/>
+<br/>
+
+<img src="https://githubstudio.sylvenos.com/api/typing?lines=Creative+Developer;Software+Builder;3D+WebGL+%2B+Rust+Suites;LovePixels+Founder;Building+Tactile+Digital+Experiences&align=center&theme=transparent&color=C8A7FF&size=19" alt="Velvet Dynamic Typing" />
+
+<br/>
 
 <a href="https://velvet-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/btn-portfolio.svg" alt="Live Portfolio" height="42" /></a>
 &nbsp;
@@ -12,9 +16,11 @@
 &nbsp;
 <a href="https://discord.gg/lovepixel"><img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/btn-discord.svg" alt="LovePixels Discord" height="42" /></a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://githubstudio.sylvenos.com/api/divider?style=pulse&accent=9B5CFF&accent2=48A7FF" width="100%" alt="Pulse Divider" />
+
+</div>
 
 ### ✦ About Me
 
@@ -28,7 +34,9 @@ I build software and obsess over how it actually feels to interact with. Most of
 
 I care deeply about the micro-details most people skip — 1px glass specular highlights, sub-millisecond input response, zero layout shift, and interfaces that feel tactile, responsive, and luxurious to touch.
 
----
+<div align="center">
+  <img src="https://githubstudio.sylvenos.com/api/divider?style=wave&accent=9B5CFF&accent2=48A7FF" width="100%" alt="Wave Divider" />
+</div>
 
 ### ⚡ Technology Arsenal
 
@@ -36,9 +44,11 @@ I care deeply about the micro-details most people skip — 1px glass specular hi
 
 <img src="https://raw.githubusercontent.com/Velvettt-67/Velvettt-67/main/assets/velvet-tech-stack.svg" alt="Velvet Technology Stack — Apple Glass Suite" width="100%" />
 
-</div>
+<br/>
 
----
+<img src="https://githubstudio.sylvenos.com/api/divider?style=gradient&accent=9B5CFF&accent2=48A7FF" width="100%" alt="Gradient Divider" />
+
+</div>
 
 ### 🚀 Selected Works
 
@@ -104,7 +114,9 @@ I care deeply about the micro-details most people skip — 1px glass specular hi
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://githubstudio.sylvenos.com/api/divider?style=wave&accent=9B5CFF&accent2=48A7FF" width="100%" alt="Wave Divider" />
+</div>
 
 ### 📊 GitHub Activity & Insights
 
@@ -114,12 +126,18 @@ I care deeply about the micro-details most people skip — 1px glass specular hi
 &nbsp;
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velvettt-67&layout=compact&theme=transparent&title_color=9B5CFF&text_color=F5F5FA&border_color=25203A&hide_border=false" alt="Velvettt-67 Top Languages" height="165" />
 
-</div>
+<br/><br/>
 
----
+<img src="https://githubstudio.sylvenos.com/api/quote?topic=craft&theme=dark&accent=9B5CFF&bg=0A0912&border=25203A" alt="Dev Quote" />
 
-<div align="center">
+<br/><br/>
 
-<sub>Crafted with precision by <b>Rohit Kanwal (Velvet)</b> · Verified from production codebases</sub>
+<img src="https://githubstudio.sylvenos.com/api/views?username=Velvettt-67&theme=dark&accent=9B5CFF" alt="Profile Views" />
+
+<br/><br/>
+
+<img src="https://githubstudio.sylvenos.com/api/divider?style=pulse&accent=9B5CFF&accent2=48A7FF" width="100%" alt="Pulse Divider" />
+
+<sub>Crafted with precision by <b>Rohit Kanwal (Velvet)</b> · Powered by Apple Glass UI &amp; GithubStudio</sub>
 
 </div>
