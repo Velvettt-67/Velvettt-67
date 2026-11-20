@@ -59,9 +59,9 @@ I also run **LovePixels**, a Discord gaming community of 15,000+ people. It has 
   <img src="https://img.shields.io/badge/Three.js-0d0d0d?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/GSAP-0d0d0d?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP">
   <img src="https://img.shields.io/badge/Framer_Motion-0d0d0d?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Tauri-0d0d0d?style=for-the-badge&logo=tauri&logoColor=FFC131" alt="Tauri">
   <img src="https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
   <img src="https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
