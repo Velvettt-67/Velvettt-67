@@ -4,9 +4,19 @@
   <img src="assets/header-dark.svg" width="100%" alt="Rohit, also known as Velvet. Creative developer: web, 3D and Windows tools.">
 </picture>
 
+<p align="center">
+  <a href="https://velvet-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/rohit-kanwal-003a75431/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a>
+  <a href="https://x.com/nyx_velvet67"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/kanwal_rohit_/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://discord.gg/lovepixel"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
 <p align="center"><i>I make websites that feel expensive, and Windows tools that make games feel instant.</i></p>
 
 <br>
+
+### Who am I?
 
 I'm Rohit. Most people online know me as Velvet.
 
@@ -22,7 +32,39 @@ I also run **LovePixels**, a Discord gaming community of 15,000+ people. It has 
 - Working on **QuantumTweaker Pro**, a Windows optimizer written in Rust and Tauri
 - Making my portfolio a little more ridiculous every week
 
-<sub>Fun fact: I've spent more hours tuning my PC's input lag than playing the games I tuned it for.</sub>
+> [!NOTE]
+> Nothing here is ever finished. It just keeps getting better.
+
+<br>
+
+### Tech stack
+
+<sub>Click any logo to read what it is and what it's used for.</sub>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/TypeScript" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"></a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"></a>
+  <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" title="Rust"><img src="https://skillicons.dev/icons?i=rust" width="48" alt="Rust"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"></a>
+</p>
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/React_(software)" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"></a>
+  <a href="https://en.wikipedia.org/wiki/Next.js" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"></a>
+  <a href="https://en.wikipedia.org/wiki/Three.js" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" width="48" alt="Three.js"></a>
+  <a href="https://en.wikipedia.org/wiki/Tailwind_CSS" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"></a>
+  <a href="https://en.wikipedia.org/wiki/Vite_(software)" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite"></a>
+  <a href="https://en.wikipedia.org/wiki/Node.js" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"></a>
+</p>
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Tauri_(software_framework)" title="Tauri"><img src="https://skillicons.dev/icons?i=tauri" width="48" alt="Tauri"></a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" title="Windows"><img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows"></a>
+  <a href="https://en.wikipedia.org/wiki/Git" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"></a>
+  <a href="https://en.wikipedia.org/wiki/GitHub" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"></a>
+  <a href="https://en.wikipedia.org/wiki/Vercel" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"></a>
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"></a>
+</p>
 
 <br>
 
@@ -45,33 +87,31 @@ I also run **LovePixels**, a Discord gaming community of 15,000+ people. It has 
 
 <br>
 
-### Stack
+### GitHub stats
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Rust-0d0d0d?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Three.js-0d0d0d?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
-  <img src="https://img.shields.io/badge/GSAP-0d0d0d?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP">
-  <img src="https://img.shields.io/badge/Framer_Motion-0d0d0d?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Tauri-0d0d0d?style=for-the-badge&logo=tauri&logoColor=FFC131" alt="Tauri">
-  <img src="https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
-  <img src="https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Velvettt-67&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff&border_color=30363d">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Velvettt-67&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=24292f&icon_color=000000&ring_color=000000&border_color=d0d7de" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvettt-67&layout=compact&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvettt-67&layout=compact&langs_count=8&bg_color=ffffff&title_color=000000&text_color=24292f&border_color=d0d7de" alt="Most used languages">
+  </picture>
 </p>
 
-<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Velvettt-67&background=0D1117&border=30363D&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E">
+    <img src="https://streak-stats.demolab.com?user=Velvettt-67&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=24292F&dates=57606A" alt="Contribution streak">
+  </picture>
+</p>
 
-### Say hi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Velvettt-67&bg_color=0d1117&color=c9d1d9&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=6">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Velvettt-67&bg_color=ffffff&color=24292f&title_color=000000&line=000000&point=000000&area=true&area_color=000000&hide_border=true&radius=6" alt="Contribution graph">
+</picture>
 
-[Portfolio](https://velvet-portfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rohit-kanwal-003a75431/) &nbsp;·&nbsp; [X](https://x.com/nyx_velvet67) &nbsp;·&nbsp; [Discord](https://discord.gg/lovepixel)
+<br><br>
 
-If you're building something that should feel premium, I'd like to hear about it.
+<p align="center"><sub>If you're building something that should feel premium, I'd like to hear about it.</sub></p>

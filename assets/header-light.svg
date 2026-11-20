@@ -1,47 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#faf8f3"/>
-      <stop offset="1" stop-color="#efe9dd"/>
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f1f1f1"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.5" cy="0.45" r="0.55">
-      <stop offset="0" stop-color="#c9a96e" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#c9a96e" stop-opacity="0"/>
+      <stop offset="0" stop-color="#000000" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#c9a96e" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#a8864a"/>
-      <stop offset="1" stop-color="#c9a96e" stop-opacity="0"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#000000" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#fff8e6" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#fff8e6" stop-opacity="1"/>
-      <stop offset="1" stop-color="#fff8e6" stop-opacity="0"/>
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="line"><rect x="440" y="158" width="320" height="2"/></clipPath>
   </defs>
 
   <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
   <rect width="1200" height="300" rx="14" fill="url(#glow)"/>
-  <rect x="22" y="22" width="1156" height="256" rx="8" fill="none" stroke="#c9a96e" stroke-opacity="0.45"/>
+  <rect x="22" y="22" width="1156" height="256" rx="8" fill="none" stroke="#000000" stroke-opacity="0.14"/>
 
-  <g fill="#c9a96e" fill-opacity="0.8">
+  <g fill="#000000" fill-opacity="0.6">
     <rect x="40" y="40" width="14" height="1"/><rect x="40" y="40" width="1" height="14"/>
     <rect x="1146" y="40" width="14" height="1"/><rect x="1159" y="40" width="1" height="14"/>
     <rect x="40" y="259" width="14" height="1"/><rect x="40" y="246" width="1" height="14"/>
     <rect x="1146" y="259" width="14" height="1"/><rect x="1159" y="246" width="1" height="14"/>
   </g>
 
-  <text x="609" y="132" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="66" letter-spacing="18" fill="#151412">ROHIT</text>
+  <text x="609" y="132" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="66" letter-spacing="18" fill="#0a0a0a">ROHIT</text>
 
-  <rect x="440" y="158" width="320" height="2" fill="url(#gold)"/>
+  <rect x="440" y="158" width="320" height="2" fill="url(#accent)"/>
   <g clip-path="url(#line)">
     <rect y="156" width="90" height="6" fill="url(#sweep)">
       <animate attributeName="x" values="350;760;760" keyTimes="0;0.6;1" dur="5s" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <text x="603" y="204" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" letter-spacing="6" fill="#6e685e">CREATIVE DEVELOPER  ·  WEB, 3D &amp; WINDOWS TOOLS</text>
+  <text x="603" y="204" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" letter-spacing="6" fill="#666666">CREATIVE DEVELOPER  ·  WEB, 3D &amp; WINDOWS TOOLS</text>
 
-  <text x="600" y="244" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="23" fill="#9a7b45">also known as Velvet</text>
+  <text x="600" y="244" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="23" fill="#2b2b2b">also known as Velvet</text>
 </svg>
