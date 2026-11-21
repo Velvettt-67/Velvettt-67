@@ -5,11 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://velvet-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/rohit-kanwal-003a75431/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a>
-  <a href="https://x.com/nyx_velvet67"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.instagram.com/kanwal_rohit_/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://discord.gg/lovepixel"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://velvet-portfolio.vercel.app/"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rohit-kanwal-003a75431/"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/nyx_velvet67"><b>X</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.instagram.com/kanwal_rohit_/"><b>Instagram</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://discord.gg/lovepixel"><b>Discord</b></a>
 </p>
 
 <p align="center"><i>I make websites that feel expensive, and Windows tools that make games feel instant.</i></p>
@@ -91,25 +87,25 @@ I also run **LovePixels**, a Discord gaming community of 15,000+ people. It has 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Velvettt-67&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff&border_color=30363d">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Velvettt-67&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=24292f&icon_color=000000&ring_color=000000&border_color=d0d7de" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Velvettt-67&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff&hide_border=true">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Velvettt-67&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=000000&text_color=24292f&icon_color=000000&ring_color=000000&hide_border=true" alt="GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvettt-67&layout=compact&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvettt-67&layout=compact&langs_count=8&bg_color=ffffff&title_color=000000&text_color=24292f&border_color=d0d7de" alt="Most used languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvettt-67&layout=compact&langs_count=8&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&hide_border=true">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvettt-67&layout=compact&langs_count=8&bg_color=00000000&title_color=000000&text_color=24292f&hide_border=true" alt="Most used languages">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Velvettt-67&background=0D1117&border=30363D&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E">
-    <img src="https://streak-stats.demolab.com?user=Velvettt-67&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=24292F&dates=57606A" alt="Contribution streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Velvettt-67&background=00000000&hide_border=true&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E">
+    <img src="https://streak-stats.demolab.com?user=Velvettt-67&background=00000000&hide_border=true&stroke=D0D7DE&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=24292F&dates=57606A" alt="Contribution streak">
   </picture>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Velvettt-67&bg_color=0d1117&color=c9d1d9&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=6">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Velvettt-67&bg_color=ffffff&color=24292f&title_color=000000&line=000000&point=000000&area=true&area_color=000000&hide_border=true&radius=6" alt="Contribution graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Velvettt-67&bg_color=00000000&color=c9d1d9&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=6">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Velvettt-67&bg_color=00000000&color=24292f&title_color=000000&line=000000&point=000000&area=true&area_color=000000&hide_border=true&radius=6" alt="Contribution graph">
 </picture>
 
 <br><br>
