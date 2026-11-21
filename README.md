@@ -87,8 +87,8 @@ I also run **LovePixels**, a Discord gaming community of 15,000+ people. It has 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Velvettt-67&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff&hide_border=true">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Velvettt-67&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=000000&text_color=24292f&icon_color=000000&ring_color=000000&hide_border=true" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Velvettt-67&show_icons=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff&hide_border=true">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Velvettt-67&show_icons=true&count_private=true&bg_color=00000000&title_color=000000&text_color=24292f&icon_color=000000&ring_color=000000&hide_border=true" alt="GitHub stats">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvettt-67&layout=compact&langs_count=8&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&hide_border=true">
